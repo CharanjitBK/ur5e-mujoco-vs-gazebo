@@ -1,0 +1,50 @@
+# environments and builds
+venv/
+.venv/
+build/
+install/
+log/
+__pycache__/
+*.pyc
+
+# large raw data (regenerate by running the trials)
+data/raw*/
+data/backup_*/
+*.npy
+tap_contacts_*.txt
+contacts.txt
+peg_contacts.txt
+tap_contacts.txt
+gzserver_*.txt
+
+# logs and backups
+launch_*log.txt
+*.bak
+*.bak2
+*.preclip
+*.padmove
+_t.py
+_test_offset.py
+trials_gazebo_peg_dbg.py
+snapshots/
+
+# third-party repos cloned into the workspace
+ur5_comparison_ws/src/Universal_Robots_ROS2_Description/
+ur5_comparison_ws/src/Universal_Robots_ROS2_Driver/
+ur5_comparison_ws/src/Universal_Robots_ROS2_Gazebo_Simulation/
+ur5_comparison_ws/src/ur_msgs/
+
+# keep small results
+!results/
+
+# cloned third-party repos (have their own .git)
+mujoco_ur5/menagerie_repo/
+ur5_comparison_ws/
+
+# early MJCF conversion experiments
+mujoco_ur5/models/mesh_test.xml
+mujoco_ur5/models/ur5e_*_joint*.xml
+mujoco_ur5/models/ur5e_meshes.xml
+mujoco_ur5/models/ur5e_visual_test.xml
+mujoco_ur5/models/visual/
+_tmp_*.xml

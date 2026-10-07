@@ -1,0 +1,5 @@
+metric,mujoco,gazebo,p
+median cycle peak force (N),58.6 ± 1.9,55.3 ± 1.1,4.54e-06
+RTF,90.8 ± 1.2,1 ± 0,7.99e-09
+CPU (%),100 ± 1.9,167 ± 3.8,6.74e-08
+RAM (MB),222 ± 0.37,703 ± 0.51,1.1e-08

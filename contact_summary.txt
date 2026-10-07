@@ -1,0 +1,14 @@
+t=  381.00 finger_l n=  90 mean|Fx|=  7.85 N  mean Fz_on_cube=-21.33 N
+t=  381.00 finger_r n=  97 mean|Fx|=  7.96 N  mean Fz_on_cube= -5.07 N
+t=  381.25 finger_l n= 119 mean|Fx|=  7.35 N  mean Fz_on_cube=-30.97 N
+t=  381.25 finger_r n= 125 mean|Fx|=  7.96 N  mean Fz_on_cube= -0.33 N
+t=  381.50 finger_l n= 121 mean|Fx|=  7.11 N  mean Fz_on_cube=-29.17 N
+t=  381.50 finger_r n= 125 mean|Fx|=  7.99 N  mean Fz_on_cube= -0.64 N
+t=  381.75 finger_l n= 124 mean|Fx|=  7.04 N  mean Fz_on_cube=-26.87 N
+t=  381.75 finger_r n= 125 mean|Fx|=  8.16 N  mean Fz_on_cube= -2.44 N
+t=  382.00 finger_l n= 125 mean|Fx|=  7.02 N  mean Fz_on_cube=-26.90 N
+t=  382.00 finger_r n= 125 mean|Fx|=  8.14 N  mean Fz_on_cube= -2.07 N
+t=  382.25 finger_l n= 125 mean|Fx|=  6.95 N  mean Fz_on_cube=-25.67 N
+t=  382.25 finger_r n= 125 mean|Fx|=  7.92 N  mean Fz_on_cube= -2.25 N
+t=  382.50 finger_l n=  63 mean|Fx|=  6.79 N  mean Fz_on_cube=-28.13 N
+t=  382.50 finger_r n=  68 mean|Fx|=  7.16 N  mean Fz_on_cube=  0.10 N
