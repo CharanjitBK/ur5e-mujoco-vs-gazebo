@@ -149,7 +149,10 @@ Outputs: `data/processed/*.csv`, `results/*.csv`, `results/figures/report/`.
 
 ## Credits and licences
 
-- UR5e MuJoCo model: [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie)
-  (BSD-3-Clause), modified here. Keep its licence if you redistribute it.
-- UR ROS 2 packages: Universal Robots / ROS-Industrial repositories (own licences).
 - Code in this repository: MIT licence (see `LICENSE`).
+- UR5e MuJoCo model: derived from [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie),
+  whose UR5e files originate from ROS-Industrial (copyright 2018 ROS Industrial Consortium,
+  BSD-3-Clause). Modified here (gripper, peg, scenes). The original licence is in
+  `mujoco_ur5/models/working_ur5e/LICENSE`, with a change note in `NOTICE.md`.
+- UR ROS 2 packages (Universal Robots / ROS-Industrial) are not included. Clone them
+  separately; each has its own licence.
