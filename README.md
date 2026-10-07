@@ -152,4 +152,3 @@ Outputs: `data/processed/*.csv`, `results/*.csv`, `results/figures/report/`.
 - UR5e MuJoCo model: [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie)
   (BSD-3-Clause), modified here. Keep its licence if you redistribute it.
 - UR ROS 2 packages: Universal Robots / ROS-Industrial repositories (own licences).
-- Add your own `LICENSE` for the code in this repo.
