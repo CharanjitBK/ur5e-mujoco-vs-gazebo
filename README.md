@@ -16,6 +16,11 @@ real-time factor (RTF), CPU and RAM. See `REPORT.md` for results and caveats.
 > MuJoCo: position actuators), Gazebo is capped at real time (RTF = 1), and CPU/RAM cover
 > different process sets. Details in `REPORT.md`.
 
+## Simulation videos
+
+Recordings of the MuJoCo and Gazebo runs (pick-and-place, peg-in-hole, tapping) are available on Google Drive:
+[Simulation videos](https://drive.google.com/drive/folders/1EMFOg2L9fKuAxtr0lkvNcS-iydBhOsBJ?usp=drive_link)
+
 ## Repository layout
 
 ```
